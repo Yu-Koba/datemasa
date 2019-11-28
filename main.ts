@@ -9,6 +9,6 @@ namespace comment {
 namespace andy {
     //% blockId=0 block="ando %v"
     export function aaa(text: string): string {
-        return "ando"
+        return "ando";
     }
 }
